@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ALIHZAU
-- 👀 I’m interested in TO LEARN r CODES
-- 🌱 I’m currently learning r
+- 👀 I’m interested in TO LEARN r and bash/linux CODES
+- 🌱 I’m currently learning r and linux code
 - 💞️ I’m looking SOMEONE TO help me in it
 - 📫 How to reach me alishaokat0786@gmail.com
 
